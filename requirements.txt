@@ -1,0 +1,26 @@
+# مضارب بلس - متطلبات التشغيل
+# Mudarib Plus - Requirements
+
+# Core framework
+streamlit>=1.45.1
+
+# Data manipulation
+pandas>=2.2.3
+numpy>=2.2.6
+
+# Data sources  
+yfinance>=0.2.41
+requests>=2.32.3
+
+# Visualization
+plotly>=5.31.1
+
+# Date handling
+python-dateutil>=2.9.0
+pytz>=2025.2
+
+# Optional: PDF generation (comment out if causing issues)
+# fpdf>=2.5.7
+
+# Optional: Technical indicators (comment out if causing issues)  
+# ta-lib-binary>=0.4.19
